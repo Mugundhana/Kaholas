@@ -1,0 +1,19 @@
+[
+  {
+    "title": "Summer Camp",
+    "course-type":"Multi-Day Course",
+    "content": "Course Description",
+    "teacher_name": "Moseler",
+    "teacher_reviews" : "Reviews for Teacher" ,
+    "teacher_reviews_stars": "Number of Stars for Teacher",
+    "class_reviews": "Reviews for the Class",
+    "class_reviews_stars": "Stars provided for class ",
+    "completed_learners": "Course completed by learners",
+    "schedule":"Class Schedule",
+    "starynight":"../public/images/starynight.jpg",
+    "Kandyinsky":"../public/images/Kandinsky.jpg",
+    "waterlilly":"../public/images/waterlilly.jpg",
+    "image_teacher":"../public/images/Teacher.jpg"
+    
+  }
+]
